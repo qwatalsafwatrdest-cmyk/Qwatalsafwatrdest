@@ -1,0 +1,8 @@
+{
+  "name": "مؤسسة قوة الصفوة للتجارة",
+  "description": "منصة B2B لمؤسسة قوة الصفوة للتجارة لتوريد الأرز والبهارات والمحسنات الغذائية للشركات والقطاعات التجارية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
